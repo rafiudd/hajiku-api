@@ -18,8 +18,8 @@ app.use(jwt());
 
 app.get('/', function (req, res) {
     res.json({
-        status: 'API Its Working',
-        message: 'Welcome to RESTHub crafted with love!'
+        status: 200,
+        message: 'API dah jalan created with lope frome me :D'
     });
 });
 app.use('/api/users', require('./modules/users/users.controller'));
