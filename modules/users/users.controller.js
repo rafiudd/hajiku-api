@@ -55,6 +55,8 @@ async function authenticate(req, res) {
     if(checkEmail && bcrypt.compareSync(model.password, checkEmail.password)) {
         const token = jwt.sign({ sub: checkEmail.id }, config.secret);
         return res.status(200).json({ code : 200, message : "Succes Login", data: checkEmail, token: token})        
+    } else {
+        return res.status(500).json({ code : 500, message : "Password Incorrect" })        
     }
 }
 
