@@ -2,16 +2,16 @@
     {
         "materiId": 1,
         "title": "Pengertian Haji",
-        "imageLink": "link.com",
-        "videoLink": "video.com",
+        "imageLink": "https://miro.medium.com/max/328/1*i5Yi84yxJc9ul5OTUg5VFw.png",
+        "videoLink": "https://www.youtube.com/watch?v=wyCtXuAk4fM&t=48s",
         "description": "Rukun haji ini adalah suatu kegiatan dalam ibadah dalam haji yang mana tidak boleh ditinggalkan oleh seseorang. Jika orang tersebut melalaikan atau meninggalkan salah satu rukun haji ini maka ibadah hajinya tidaklah sah. Karena meninggalkan rukun ini, juga tidak bisa diganti dengan membayar dam. Berikut beberapa rukun dalam haji :",
         "subMateri" : []
     },
     {
         "materiId": 2,
         "title": "Rukun Haji",
-        "imageLink": "link.com",
-        "videoLink": "video.com",
+        "imageLink": "https://miro.medium.com/max/328/1*R91n_x759FWmHFhIxET9yA.png",
+        "videoLink": "https://www.youtube.com/watch?v=wyCtXuAk4fM&t=48s",
         "description": "Rukun haji ini adalah suatu kegiatan dalam ibadah dalam haji yang mana tidak boleh ditinggalkan oleh seseorang. Jika orang tersebut melalaikan atau meninggalkan salah satu rukun haji ini maka ibadah hajinya tidaklah sah. Karena meninggalkan rukun ini, juga tidak bisa diganti dengan membayar dam. Berikut beberapa rukun dalam haji :",
         "subMateri": [
             {
@@ -50,16 +50,16 @@
     {
         "materiId": 3,
         "title": "Hukum Haji",
-        "imageLink": "link.com",
-        "videoLink": "video.com",
+        "imageLink": "https://miro.medium.com/max/328/1*sJ7Q5asZhIChibR_hqUiow.png",
+        "videoLink": "https://www.youtube.com/watch?v=wyCtXuAk4fM&t=48s",
         "description": "Hukum Haji adalah wajib bagi setiap muslim yang mampu terutama bagi mereka yang sudah mampu secara lahir maupun batin. Artinya ketika seorang muslim sudah mampu untuk melaksanakan ibadah haji tersebut, hendaklah untuk menyegerakannya.",
         "subMateri" : []
     },
     {
         "materiId": 4,
         "title": "Syarat Haji",
-        "imageLink": "link.com",
-        "videoLink": "video.com",
+        "imageLink": "https://miro.medium.com/max/328/1*iTRZ5q5gvXhac_7bqyBQGQ.png",
+        "videoLink": "https://www.youtube.com/watch?v=wyCtXuAk4fM&t=48s",
         "description": "Syarat adalah tuntutan atau permintaan yang harus dipenuhi. Syarat haji sebagai berikut :",
         "subMateri": [
             {
@@ -92,8 +92,8 @@
     {
         "materiId": 5,
         "title": "Sunnah Haji",
-        "imageLink": "link.com",
-        "videoLink": "video.com",
+        "imageLink": "https://miro.medium.com/max/328/1*J4z_Fg7bMOdvE84_y0yygg.png",
+        "videoLink": "https://www.youtube.com/watch?v=wyCtXuAk4fM&t=48s",
         "description": "Sunah dalam ibadah merupakan penyempurna. Maka, melakukan sunnah dalam ibadah haji dan umroh sangat dianjurkan dan rugi jika ditinggalkan. Berikut Sunnah Sunnah Haji :",
         "subMateri": [
             {
