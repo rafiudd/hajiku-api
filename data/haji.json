@@ -1,0 +1,132 @@
+[
+    {
+        "materiId": 1,
+        "title": "Pengertian Haji",
+        "imageLink": "link.com",
+        "videoLink": "video.com",
+        "description": "Rukun haji ini adalah suatu kegiatan dalam ibadah dalam haji yang mana tidak boleh ditinggalkan oleh seseorang. Jika orang tersebut melalaikan atau meninggalkan salah satu rukun haji ini maka ibadah hajinya tidaklah sah. Karena meninggalkan rukun ini, juga tidak bisa diganti dengan membayar dam. Berikut beberapa rukun dalam haji :",
+        "subMateri" : []
+    },
+    {
+        "materiId": 2,
+        "title": "Rukun Haji",
+        "imageLink": "link.com",
+        "videoLink": "video.com",
+        "description": "Rukun haji ini adalah suatu kegiatan dalam ibadah dalam haji yang mana tidak boleh ditinggalkan oleh seseorang. Jika orang tersebut melalaikan atau meninggalkan salah satu rukun haji ini maka ibadah hajinya tidaklah sah. Karena meninggalkan rukun ini, juga tidak bisa diganti dengan membayar dam. Berikut beberapa rukun dalam haji :",
+        "subMateri": [
+            {
+                "id": 1,
+                "title": "Niat",
+                "description": "Niat adalah berniat untuk mulai mengerjakan ibadah haji dengan memakai kain putih yang tidak dijahit. Ibadah ini dimulai setelah sampai di miqat."
+            },
+            {
+                "id": 2,
+                "title": "Wukuf",
+                "description": "Wukuf di Arafah, adalah berhenti di Padang Arafah sejak tergelintirnya matahari tanggal 9 Zulhijah sampai terbit fajar pada tanggal 10 Zulhijah."
+            },
+            {
+                "id": 3,
+                "title": "Tawaf Ifadah",
+                "description": "Tawaf ifadah, adalah mengelilingi Ka’bah sebanyak 7 kali dengan syarat sebagai berikut : \n 1. Suci dari hadas dan najis baik badan maupun pakaian. 2. Menutup aurat.3. Ka’bah berada di sebelah kiri orang yang mengelilinginya.4. Memulai tawaf dari arah hajar aswad (batu hitam) yang terletak di salah satu pojok di luar Ka’bah."
+            },
+            {
+                "id": 4,
+                "title": "Sa'i",
+                "description": "Sa’i, adalah lari-lari kecil atau jalan cepat antara Safa dan Marwa."
+            },
+            {
+                "id": 5,
+                "title": "Tahalul",
+                "description": "Tahalul, adalah mencukur atau menggunting rambut sedikitnya tiga helai."
+            },
+            {
+                "id": 6,
+                "title": "Tertib",
+                "description": "tertib, adalah menjalankan rukun haji secara berurutan."
+            }
+        ],
+        "isHome": true
+    },
+    {
+        "materiId": 3,
+        "title": "Hukum Haji",
+        "imageLink": "link.com",
+        "videoLink": "video.com",
+        "description": "Hukum Haji adalah wajib bagi setiap muslim yang mampu terutama bagi mereka yang sudah mampu secara lahir maupun batin. Artinya ketika seorang muslim sudah mampu untuk melaksanakan ibadah haji tersebut, hendaklah untuk menyegerakannya.",
+        "subMateri" : []
+    },
+    {
+        "materiId": 4,
+        "title": "Syarat Haji",
+        "imageLink": "link.com",
+        "videoLink": "video.com",
+        "description": "Syarat adalah tuntutan atau permintaan yang harus dipenuhi. Syarat haji sebagai berikut :",
+        "subMateri": [
+            {
+                "id": 1,
+                "title": "Mampu",
+                "description": ""
+            },
+            {
+                "id": 2,
+                "title": "Islam",
+                "description": ""
+            },
+            {
+                "id": 3,
+                "title": "Berakal",
+                "description": ""
+            },
+            {
+                "id": 4,
+                "title": "Baligh",
+                "description": ""
+            },
+            {
+                "id": 5,
+                "title": "Merdeka",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "materiId": 5,
+        "title": "Sunnah Haji",
+        "imageLink": "link.com",
+        "videoLink": "video.com",
+        "description": "Sunah dalam ibadah merupakan penyempurna. Maka, melakukan sunnah dalam ibadah haji dan umroh sangat dianjurkan dan rugi jika ditinggalkan. Berikut Sunnah Sunnah Haji :",
+        "subMateri": [
+            {
+                "id": 1,
+                "title": "3 Sunnah mengerjakan Haji",
+                "description": "Melaksanakan haji dengan cara :1. Ifrad : berniat untuk melaksanakan ibadah haji beserta ketentuan-ketentuannya sampai selesai, dan kemudian dilanjutkan dengan niat untuk melaksanakan ibadah umrah.2. Tamattu : berniat melaksanakan ibadah umrah beserta ketentuan-ketentuannya sampai selesai. Setelah selesai dilanjutkan kembali dengan berniat melaksanakan ibadah haji3. Qiran : berniat melakukan ibadah haji dan ibadah umrah secara bersamaan."
+            },
+            {
+                "id": 2,
+                "title": "Membaca Talbiyah",
+                "description": ""
+            },
+            {
+                "id": 3,
+                "title": "Berdo’a",
+                "description": ""
+            },
+            {
+                "id": 4,
+                "title": "Berzikir",
+                "description": ""
+            },
+            {
+                "id": 5,
+                "title": "Sholat Sunnah",
+                "description": ""
+            },
+            {
+                "id": 6,
+                "title": "Mencium Hajar Aswad",
+                "description": ""
+            }
+        ],
+        "isHome" : true
+    }
+]

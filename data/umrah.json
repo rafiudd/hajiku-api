@@ -1,0 +1,21 @@
+[
+    {
+        "materiId" : 1,
+        "imageLink": "link.com",
+        "videoLink": "video.com",
+        "description" : "menurut bahasa (etimologi) yaitu diambil dari kata “i’tamara” yang artinya berkunjung. Di dalam syariat, umrah artinya adalah berkunjung ke Baitullah (Masjidil Haram) dengan tujuan mendekatkan diri kepada Allah dengan memenuhi syarat tertentu yang waktunya tidak ditentukan seperti halnya haji."
+    },
+    {
+        "materiId" : 1,
+        "imageLink": "link.com",
+        "videoLink": "video.com",
+        "description" : "Berikut beberapa rukun dalam umroh :",
+        "subMateri" : [
+            {
+                "id" : 1,
+                "title" : "Niat",
+                "description" : "ajbjlabflak"
+            }
+        ]
+    }
+]
