@@ -87,7 +87,8 @@
                 "title": "Merdeka",
                 "description": ""
             }
-        ]
+        ],
+        "isHome" : true
     },
     {
         "materiId": 5,

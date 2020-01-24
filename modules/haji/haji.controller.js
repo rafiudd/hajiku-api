@@ -45,6 +45,16 @@ async function getAll(req, res, next) {
         let result = res.json({"message" : "Success Get All Materi Umroh" , "code" : 200, "data" : query })
         
         return result
+    } else if(req.query.data === "discover") {
+        let umrah = await Umrah.find({ "isHome" : true });
+        let haji = await Haji.find({ "isHome" : true });
+        let array = []
+
+        // array.push(umrah,haji)
+
+        let result = res.json({"message" : "Success Get All Materi Umroh" , "code" : 200, "data" : umrah.concat(haji) })
+        return result
+
     }
     
 }
