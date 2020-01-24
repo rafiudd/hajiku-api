@@ -15,7 +15,8 @@ const schema = new Schema({
             description : { type : String }
         }
     ],
-    isHome : { type : Boolean }
+    isHome : { type : Boolean },
+    tag : { type : String }
 });
 
 schema.set('toJSON', { virtuals: true });
