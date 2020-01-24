@@ -52,7 +52,7 @@ async function getAll(req, res, next) {
 
         // array.push(umrah,haji)
 
-        let result = res.json({"message" : "Success Get All Materi Umroh" , "code" : 200, "data" : umrah.concat(haji) })
+        let result = res.json({"message" : "Success Get Materi On Discover" , "code" : 200, "data" : umrah.concat(haji) })
         return result
 
     }
