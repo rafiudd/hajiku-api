@@ -5,7 +5,8 @@
         "imageLink": "https://miro.medium.com/max/328/1*i5Yi84yxJc9ul5OTUg5VFw.png",
         "videoLink": "https://www.youtube.com/watch?v=wyCtXuAk4fM&t=48s",
         "description": "Rukun haji ini adalah suatu kegiatan dalam ibadah dalam haji yang mana tidak boleh ditinggalkan oleh seseorang. Jika orang tersebut melalaikan atau meninggalkan salah satu rukun haji ini maka ibadah hajinya tidaklah sah. Karena meninggalkan rukun ini, juga tidak bisa diganti dengan membayar dam. Berikut beberapa rukun dalam haji :",
-        "subMateri" : []
+        "subMateri" : [],
+        "tag" : "haji"
     },
     {
         "materiId": 2,
@@ -45,7 +46,8 @@
                 "description": "tertib, adalah menjalankan rukun haji secara berurutan."
             }
         ],
-        "isHome": true
+        "isHome": true,
+        "tag" : "haji"
     },
     {
         "materiId": 3,
@@ -53,7 +55,8 @@
         "imageLink": "https://miro.medium.com/max/328/1*sJ7Q5asZhIChibR_hqUiow.png",
         "videoLink": "https://www.youtube.com/watch?v=wyCtXuAk4fM&t=48s",
         "description": "Hukum Haji adalah wajib bagi setiap muslim yang mampu terutama bagi mereka yang sudah mampu secara lahir maupun batin. Artinya ketika seorang muslim sudah mampu untuk melaksanakan ibadah haji tersebut, hendaklah untuk menyegerakannya.",
-        "subMateri" : []
+        "subMateri" : [],
+        "tag" : "haji"
     },
     {
         "materiId": 4,
@@ -88,7 +91,8 @@
                 "description": ""
             }
         ],
-        "isHome" : true
+        "isHome" : true,
+        "tag" : "haji"
     },
     {
         "materiId": 5,
@@ -128,6 +132,7 @@
                 "description": ""
             }
         ],
-        "isHome" : true
+        "isHome" : true,
+        "tag" : "haji"
     }
 ]

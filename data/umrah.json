@@ -4,7 +4,9 @@
         "title" : "Pengertian Umrah",
         "imageLink": "https://miro.medium.com/max/328/1*sJ7Q5asZhIChibR_hqUiow.png",
         "videoLink": "https://www.youtube.com/watch?v=wyCtXuAk4fM&t=48s",
-        "description" : "menurut bahasa (etimologi) yaitu diambil dari kata “i’tamara” yang artinya berkunjung. Di dalam syariat, umrah artinya adalah berkunjung ke Baitullah (Masjidil Haram) dengan tujuan mendekatkan diri kepada Allah dengan memenuhi syarat tertentu yang waktunya tidak ditentukan seperti halnya haji."
+        "description" : "menurut bahasa (etimologi) yaitu diambil dari kata “i’tamara” yang artinya berkunjung. Di dalam syariat, umrah artinya adalah berkunjung ke Baitullah (Masjidil Haram) dengan tujuan mendekatkan diri kepada Allah dengan memenuhi syarat tertentu yang waktunya tidak ditentukan seperti halnya haji.",
+        "subMateri" : [],
+        "tag" : "umrah"
     },
     {
         "materiId" : 1,
@@ -19,6 +21,7 @@
                 "description" : "ajbjlabflak"
             }
         ],
-        "isHome" : true
+        "isHome" : true,
+        "tag" : "umrah"
     }
 ]
