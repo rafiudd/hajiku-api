@@ -24,6 +24,7 @@ app.get('/', function (req, res) {
 });
 app.use('/api/users', require('./modules/users/users.controller'));
 app.use('/api/haji', require('./modules/haji/haji.controller'));
+app.use('/api/quiz', require('./modules/quiz/quiz.controller'));
 
 // global error handler
 app.use(errorHandler);
