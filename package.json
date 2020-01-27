@@ -12,6 +12,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.4.1",
     "mongoose": "^5.8.7",
+    "redis": "^2.8.0",
     "rootpath": "^0.1.2"
   },
   "devDependencies": {},
