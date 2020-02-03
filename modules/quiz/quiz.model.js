@@ -8,9 +8,20 @@ const schema = new Schema({
     description : { type : String },
     isHome : { type : Boolean },
     time : { type : Number},
-    countQuestion : { type : Number }
+    count : { type : Number },
+    question : [
+        {
+            questionId : { type : Number },
+            title : { type : String },
+            0 : { type : String },
+            1 : { type : String },
+            2  : { type : String },
+            3 : { type : String },
+            answer : { type : String }
+        }
+    ]
 });
 
 schema.set('toJSON', { virtuals: true });
 
-module.exports = mongoose.model('Haji', schema);
+module.exports = mongoose.model('Quiz', schema);
