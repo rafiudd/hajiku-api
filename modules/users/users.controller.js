@@ -25,18 +25,18 @@ async function create(req,res) {
     let checkUsername = await User.findOne({ "username" : model.username });
 
     if (checkEmail) {
-        return res.status(501).json(
+        return res.status(409).json(
             { 
-                "code" : 501, 
+                "code" : 409, 
                 "message" : "Email is already taken"
             }
         )
     }
 
     if(checkUsername) {
-        return res.status(501).json(
+        return res.status(409).json(
             { 
-                "code" : 501, message : "Username is already taken"
+                "code" : 409, message : "Username is already taken"
             }
         )
     }
@@ -77,7 +77,7 @@ async function authenticate(req, res) {
             }
         )        
     } else {
-        return res.status(500).json({ code : 500, message : "Password Incorrect" })        
+        return res.status(403).json({ code : 403, message : "Password Incorrect" })        
     }
 }
 
