@@ -2,7 +2,6 @@ const express = require('express');
 const router = express.Router();
 const db = require('../../helpers/db');
 const jwt = require('jsonwebtoken');
-
 const Quiz = db.Quiz;
 const User = db.User;
 const ResultQuiz = db.ResultQuiz;
@@ -18,27 +17,45 @@ router.post('/post/quiz', checkAnswer);
 
 module.exports = router;
 
-async function create(req,res) {
+async function create(res) {
     let query = await Quiz.insertMany(dataSoal);
-    let result = res.json({"message" : "Success Post Soal" , "code" : 201, "data" : query})
+    let result = res.json(
+        {
+            "message" : "Success Post Soal" , 
+            "code" : 201, 
+            "data" : query
+        }
+    )
    
     return result
 }
 
-async function getAll(req, res, next) {
+async function getAll(res) {
     let query = await Quiz.find();
-    let result = res.json({"message" : "Success Get All Soal" , "code" : 200, "data" : query })
+    let result = res.json(
+        {
+            "message" : "Success Get All Soal" ,
+            "code" : 200, 
+            "data" : query 
+        }
+    )
         
     return result
 }
 
-async function getById(req, res, next) {
+async function getById(req, res) {
     let model = {
         _id : req.query.id
     }
 
     let query = await Quiz.findById(model._id);
-    let result = res.json({"message" : "Success Get Haji by Id" , "code" : 200, "data" : query })
+    let result = res.json(
+        {
+            "message" : "Success Get Haji by Id" , 
+            "code" : 200, 
+            "data" : query 
+        }
+    )
     
     return result
 }
@@ -46,11 +63,23 @@ async function getById(req, res, next) {
 async function _delete(req, res, next) {
     if(req.query.data === "quiz") {
         let query = await Quiz.remove();
-        let result = res.json({"message" : "Success Remove Haji" , "code" : 204, "data" : query})
+        let result = res.json(
+            {
+                "message" : "Success Remove Haji" , 
+                "code" : 200, 
+                "data" : query
+            }
+        )
         return result
     } else if(req.query.data === "result") {
         let query = await ResultQuiz.remove();
-        let result = res.json({"message" : "Success Remove Result" , "code" : 204, "data" : query})
+        let result = res.json(
+            {
+                "message" : "Success Remove Result" , 
+                "code" : 200, 
+                "data" : query
+            }
+        )
         return result
     }
     
@@ -86,7 +115,6 @@ async function checkAnswer(req,res) {
     let userId = decode.sub
 
     let query = await User.findById(userId);
-    // console.log(query,['QIERY'])
     
     function formatDate(date) {
         let d = new Date(date);
@@ -128,7 +156,13 @@ async function checkAnswer(req,res) {
 
 async function getResultQuiz(req, res, next) {
     let query = await ResultQuiz.find();
-    let result = res.json({"message" : "Success Get All Soal" , "code" : 200, "data" : query })
+    let result = res.json(
+        {
+            "message" : "Success Get All Soal" , 
+            "code" : 200, 
+            "data" : query 
+        }
+    )
         
     return result
 }
