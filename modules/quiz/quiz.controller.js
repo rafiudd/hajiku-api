@@ -1,33 +1,48 @@
 const express = require('express');
 const router = express.Router();
 const db = require('../../helpers/db');
+const Haji = db.Haji;
+const Umrah = db.Umroh;
 const jwt = require('jsonwebtoken');
 const Quiz = db.Quiz;
-const User = db.User;
 const ResultQuiz = db.ResultQuiz;
-let dataSoal = require('../../data/soal.json')
+const User = db.User;
 // routes
 
 router.post('/post/all', create);
 router.get('/all', getAll);
-router.get('/result', getResultQuiz);
 router.get('/', getById);
 router.delete('/delete', _delete);
 router.post('/post/quiz', checkAnswer);
+router.get('/result', getResultQuiz);
 
 module.exports = router;
 
-async function create(res,req) {
-    let query = await Quiz.insertMany(dataSoal);
-    let result = res.json({"message" : "Success Post Soal" , "code" : 201, "data" : query})
+async function create(req,res) {
+    let soal = require('../../data/soal.json');
+
+    let query = await Quiz.insertMany(soal);
    
+    let result = res.json(
+        {
+            "message" : "Success Post Soal" , 
+            "code" : 200, 
+            "data" : query
+        }
+    )
     return result
 }
 
-async function getAll(res) {
+async function getAll(req, res) {
     let query = await Quiz.find();
-    let result = res.json({"message" : "Success Get All Soal" , "code" : 200, "data" : query })
-
+    let result = res.json(
+        {
+            "message" : "Success Get All Soal" , 
+            "code" : 200, 
+            "data" : query 
+        }
+    )
+        
     return result
 }
 
@@ -37,24 +52,40 @@ async function getById(req, res) {
     }
 
     let query = await Quiz.findById(model._id);
-    let result = res.json({"message" : "Success Get Haji by Id" , "code" : 200, "data" : query })
-    
-    return result
+    let result = res.json(
+        {
+            "message" : "Success Get Haji by Id" , 
+            "code" : 200, 
+            "data" : query 
+        }
+    )
+        
+    return result   
 }
 
-async function _delete(req, res, next) {
+async function _delete(req, res) {
     if(req.query.data === "quiz") {
         let query = await Quiz.remove();
-        let result = res.json({"message" : "Success Remove Quiz" , "code" : 204, "data" : query})
-
+        let result = res.json(
+            {
+                "message" : "Success Remove Haji" , 
+                "code" : 200, 
+                "data" : query
+            }
+        )
         return result
     } else if(req.query.data === "result") {
         let query = await ResultQuiz.remove();
-        let result = res.json({"message" : "Success Remove Result" , "code" : 204, "data" : query})
-
+        let result = res.json(
+            {
+                "message" : "Success Remove Umrah" , 
+                "code" : 200, 
+                "data" : query
+            }
+        )
         return result
     }
-    
+   
 }
 
 async function checkAnswer(req,res) {
@@ -115,14 +146,26 @@ async function checkAnswer(req,res) {
 
     await ResultQuiz.insertMany(resultAnswer)
 
-    let result = res.json({"message" : "Success Remove Result" , "code" : 204, "data" : query})
+    let result = res.json(
+        {
+            "message" : "Success Cleared Quiz" ,
+            "code" : 204, 
+            "data" : resultAnswer
+        }
+    )
     
     return result
 }
 
 async function getResultQuiz(req, res, next) {
     let query = await ResultQuiz.find();
-    let result = res.json({"message" : "Success Get All Result" , "code" : 200, "data" : query })
-
+    let result = res.json(
+        {
+            "message" : "Success Get All Soal" , 
+            "code" : 200, 
+            "data" : query 
+        }
+    )
+        
     return result
 }
