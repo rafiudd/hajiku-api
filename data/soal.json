@@ -24,6 +24,33 @@
                 "2"  : "Anu anune anuku",
                 "3" : "Apa aja boole",
                 "answer" : "Anu anune anuku"
+            },
+            {
+                "questionId" : 3,
+                "title" : "Apa yang dimakasud anu ?",
+                "0" : "Apa hayo",
+                "1" : "Ga tau",
+                "2"  : "Anu anune anuku",
+                "3" : "Apa aja boole",
+                "answer" : "Anu anune anuku"
+            },
+            {
+                "questionId" : 4,
+                "title" : "Apa yang dimakasud anu ?",
+                "0" : "Apa hayo",
+                "1" : "Ga tau",
+                "2"  : "Anu anune anuku",
+                "3" : "Apa aja boole",
+                "answer" : "Anu anune anuku"
+            },
+            {
+                "questionId" : 5,
+                "title" : "Apa yang dimakasud anu ?",
+                "0" : "Apa hayo",
+                "1" : "Ga tau",
+                "2"  : "Anu anune anuku",
+                "3" : "Apa aja boole",
+                "answer" : "Anu anune anuku"
             }
         ],
         "tag" : "quiz",
