@@ -44,9 +44,16 @@ async function getById(req, res, next) {
 }
 
 async function _delete(req, res, next) {
-    let query = await Quiz.remove();
-    let result = res.json({"message" : "Success Remove Haji" , "code" : 204, "data" : query})
-    return result
+    if(req.query.data === "quiz") {
+        let query = await Quiz.remove();
+        let result = res.json({"message" : "Success Remove Haji" , "code" : 204, "data" : query})
+        return result
+    } else if(req.query.data === "result") {
+        let query = await ResultQuiz.remove();
+        let result = res.json({"message" : "Success Remove Result" , "code" : 204, "data" : query})
+        return result
+    }
+    
 }
 
 async function checkAnswer(req,res) {
