@@ -8,5 +8,7 @@ module.exports = {
     User: require('../modules/users/users.model'),
     Haji: require('../modules/haji/haji.model'),
     Umroh: require('../modules/haji/umroh.model'),
-    Quiz : require('../modules/quiz/quiz.model')
+    Quiz : require('../modules/quiz/quiz.model'),
+    ResultQuiz : require('../modules/quiz/result.model')
+
 };
