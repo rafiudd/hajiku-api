@@ -94,7 +94,7 @@ async function checkAnswer(req,res) {
     }
 
     let getQuiz = await Quiz.findById(model._id);
-    let payloadAnswer = req.body.answer;
+    let payloadAnswer = req.body;
     let answer = [];
 
     getQuiz.question.map( obj => {
