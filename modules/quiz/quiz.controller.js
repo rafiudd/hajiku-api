@@ -105,13 +105,16 @@ async function checkAnswer(req,res) {
     let isFalse = 0;
 
     for(let i=0; i<answer.length; i++) {
-        console.log(payloadAnswer[i],['gsfgfs'],answer[i])
-        if(payloadAnswer[i] === answer[i]) {
+        let valueAnswer = Object.values(payloadAnswer[i]);
+        let keyAnswer = Object.keys(payloadAnswer[i])
+
+        if(valueAnswer[0] === answer[i]) {
             isTrue ++
         } else {
             isFalse --
         }
     }
+
     let token = req.headers.authorization.replace('Bearer ','');
     
     let decode = jwt.decode(token);
