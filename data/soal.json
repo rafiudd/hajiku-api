@@ -1,56 +1,248 @@
 [
     {
         "quizId" : 1,
-        "title" : "Soal Tentang Umrah",
+        "title" : "Latihan Soal Haji dan Umrah ",
         "imageLink": "https://miro.medium.com/max/328/1*sJ7Q5asZhIChibR_hqUiow.png",
-        "description" : "menurut bahasa (etimologi) yaitu diambil dari kata “i’tamara” yang artinya berkunjung. Di dalam syariat, umrah artinya adalah berkunjung ke Baitullah (Masjidil Haram) dengan tujuan mendekatkan diri kepada Allah dengan memenuhi syarat tertentu yang waktunya tidak ditentukan seperti halnya haji.",
+        "description" : "Latihan soal untuk mengetahui seberapa mengerti kalian tentang materi yang telah kalian pelajari. Bentuk soal pilihan ganda, jawab dengan tepat ya ^_^",
         "time" : 30,
         "count" : 5,
         "question" : [
             {   
                 "questionId" : 1,
-                "title" : "Apa yang dimakasud anu ?",
-                "0" : "Apa hayo",
-                "1" : "Ga tau",
-                "2"  : "Anu anune anuku",
-                "3" : "Apa aja boole",
-                "answer" : "Anu anune anuku"
+                "title" : "Segala sesuatu yang harus dikerjakan ketika melaksanakaan ibadah haji merupakan pengertian….",
+                "0" : "Syarat Wajib Haji",
+                "1" : "Syarat Sah Haji",
+                "2"  : "Rukun Haji",
+                "3" : "Wajib haji",
+                "answer" : "Rukun Haji"
             },
             {
                 "questionId" : 2,
-                "title" : "Apa yang dimakasud anu ?",
-                "0" : "Apa hayo",
-                "1" : "Ga tau",
-                "2"  : "Anu anune anuku",
-                "3" : "Apa aja boole",
-                "answer" : "Anu anune anuku"
+                "title" : "Berikut ini yang tidak termasuk rukun haji adalah",
+                "0" : "Tamattu'",
+                "1" : "Ihram",
+                "2"  : "Thawaf",
+                "3" : "Sa'i",
+                "answer" : "Tamattu'"
             },
             {
                 "questionId" : 3,
-                "title" : "Apa yang dimakasud anu ?",
-                "0" : "Apa hayo",
-                "1" : "Ga tau",
-                "2"  : "Anu anune anuku",
-                "3" : "Apa aja boole",
-                "answer" : "Anu anune anuku"
+                "title" : "Hadir di Padang Arafah pada waktu yang ditentukan, yakni mulai dari tergelincirnya matahari pada tanggal 9 Dzulhijjah sampai terbit fajar tanggal 10 Dzulhijjah disebut ….",
+                "0" : "Ihram",
+                "1" : "Thawaf",
+                "2"  : "Sa'i",
+                "3" : "Wukuf",
+                "answer" : "Wukuf"
             },
             {
                 "questionId" : 4,
-                "title" : "Apa yang dimakasud anu ?",
-                "0" : "Apa hayo",
-                "1" : "Ga tau",
-                "2"  : "Anu anune anuku",
-                "3" : "Apa aja boole",
-                "answer" : "Anu anune anuku"
+                "title" : "Setelah melakukan wukuf di Padang Arafah, para jama’ah haji diwajibkan bermalam di ….",
+                "0" : "Muzdalifah",
+                "1" : "Madinah",
+                "2"  : "Mina",
+                "3" : "Mesir",
+                "answer" : "Muzdalifah"
             },
             {
                 "questionId" : 5,
-                "title" : "Apa yang dimakasud anu ?",
-                "0" : "Apa hayo",
-                "1" : "Ga tau",
-                "2"  : "Anu anune anuku",
-                "3" : "Apa aja boole",
-                "answer" : "Anu anune anuku"
+                "title" : "Berlari-lari kecil dari Bukit Shafa ke Bukit Marwah sebanyak tujuh kali merupakan salah satu rukun haji dan umrah yang disebut ….",
+                "0" : "Wukuf",
+                "1" : "Ihram",
+                "2"  : "Thawaf",
+                "3" : "Sai",
+                "answer" : "Sa'i"
+            },
+            {
+                "questionId" : 6,
+                "title" : "Berikut ini yang tidak termasuk kepada syarat wajib haji adalah",
+                "0" : "Islam",
+                "1" : "Budak(Hamba sahaya)",
+                "2"  : "Baligh",
+                "3" : "Berakal",
+                "answer" : "Budak(Hamba sahaya)"
+            },
+            {
+                "questionId" : 7,
+                "title" : "Haji secara bahasa artinya menyengaja atau menuju suatu tempat. Tempat yang dimaksud adalah",
+                "0" : "Gua Hira",
+                "1" : "Ka'bah",
+                "2"  : "Masjid Nabawi",
+                "3" : "Masjidil Aqsa",
+                "answer" : "Ka'bah"
+            },
+            {
+                "questionId" : 8,
+                "title" : "Melaksanakaan ibadah haji merupakan rukun Islam yang ke….",
+                "0" : "dua",
+                "1" : "tiga",
+                "2"  : "empat",
+                "3" : " lima",
+                "answer" : "lima"
+            },
+            {
+                "questionId" : 9,
+                "title" : "Berikut ini merupakan manfaat haji, kecuali",
+                "0" : "Semakin mendekatkan diri kepada Allah swt.",
+                "1" : "Menjalin ukhuwah antara umat Islam dari berbagai penjuru dunia",
+                "2"  : "mendapat predikat “haji”",
+                "3" : "Mensyukuri atas segala nikmat yang diberikan oleh Allah swt. kepada kita semua",
+                "answer" : "mendapat predikat “haji”"
+            },
+            {
+                "questionId" : 10,
+                "title" : "Mengelilingi Ka’bah di Baitullah sebanyak tujuh kali merupakan pengertian dari...",
+                "0" : "Wukuf",
+                "1" : "Ihram",
+                "2"  : "Thawaf",
+                "3" : "Sa'i",
+                "answer" : "Thawaf"
+            }
+        ],
+        "tag" : "quiz",
+        "isHome" : true
+    },
+    {
+        "quizId" : 2,
+        "title" : "Quiz Haji dan Umrah ",
+        "imageLink": "https://miro.medium.com/max/328/1*sJ7Q5asZhIChibR_hqUiow.png",
+        "description" : "Soal-soal untuk mendapatkan nilai dan kepahaman kalian tentang materi yg telah kalian baca. Bentuk soal pilihan ganda, jawab dengan tepat ya ^_^",
+        "time" : 30,
+        "count" : 5,
+        "question" : [
+            {   
+                "questionId" : 1,
+                "title" : "Berikut yang tidak termasuk dalam macam macam jumrah ketika melaksanakan haji yaitu...",
+                "0" : "ula",
+                "1" : "wa'da",
+                "2"  : "aqobah",
+                "3" : "wusta",
+                "answer" : "wada"
+            },
+            {
+                "questionId" : 2,
+                "title" : "Pengertian dari thawaf wa’da yaitu...",
+                "0" : "Thawaf awal",
+                "1" : "Thawaf Pertama",
+                "2"  : "Thawaf perpisahan",
+                "3" : "Thawaf ketiga",
+                "answer" : "Thawaf perpisahan"
+            },
+            {
+                "questionId" : 3,
+                "title" : "Larangan pada saat melaksanakan haji yaitu",
+                "0" : "menggunakan pakaian berjahit pada pria",
+                "1" : "banyak bersholawat",
+                "2"  : "tidak menggunakan wewangian",
+                "3" : "tidak memotong kuku",
+                "answer" : "menggunakan pakaian berjahit pada pria"
+            },
+            {
+                "questionId" : 4,
+                "title" : "Menjalankan rukun haji secara urut disebut dengan…",
+                "0" : "sa'i",
+                "1" : "thawaf",
+                "2"  : "tahallul",
+                "3" : "tertib",
+                "answer" : "tertib"
+            },
+            {
+                "questionId" : 5,
+                "title" : "Banyaknya jumlah lemparan jumrah yaitu … dengan menggunakan kerikil",
+                "0" : "8",
+                "1" : "7",
+                "2"  : "6",
+                "3" : "11",
+                "answer" : "7"
+            },
+            {
+                "questionId" : 6,
+                "title" : "Berniat untuk melaksanakan ibadah haji yang dilanjutkan dengan niat untuk melaksanakan ibadah umrah disebut dengan…",
+                "0" : "Tamattu",
+                "1" : "Kiran",
+                "2"  : "Ifrad",
+                "3" : "tahallul",
+                "answer" : "Ifrad"
+            },
+            {
+                "questionId" : 7,
+                "title" : "hukum melaksanakan haji yaitu … untuk orang yang mampu",
+                "0" : "wajib",
+                "1" : "Sunnah",
+                "2"  : "Haram",
+                "3" : "Makruh",
+                "answer" : "Wajib"
+            },
+            {
+                "questionId" : 8,
+                "title" : "syarat untuk melaksanakan thawaf ifadah, kecuali…",
+                "0" : "suci dari hadas dan najis baik pakaian maupun badan",
+                "1" : "Menutup Aurat",
+                "2"  : "Memulai tawaf dari arah hajar aswad",
+                "3" : "Ka’bah berada di sebelah kanan orang yang mengelilinginya",
+                "answer" : "Ka’bah berada di sebelah kanan orang yang mengelilinginya"
+            },
+            {
+                "questionId" : 9,
+                "title" : "Mencukur atau memotong rambut sedikitnya 3 helai disebut dengan…",
+                "0" : "Sa'i",
+                "1" : "Thawaf",
+                "2"  : "Tahallul",
+                "3" : "Tamattu",
+                "answer" : "Tahallul"
+            },
+            {
+                "questionId" : 10,
+                "title" : "Segala sesuatu yang wajib dikerjakan selama melaksanakan haji merupakan pengertian dari…",
+                "0" : "Syarat Wajib Haji",
+                "1" : "Sunnah Haji",
+                "2"  : "Rukun Haji",
+                "3" : "Syarat Sah Haji",
+                "answer" : "Rukun Haji"
+            },
+            {
+                "questionId" : 11,
+                "title" : "Thawaf dilakukan pada tanggal…",
+                "0" : "7, 8, 9 zulhijah",
+                "1" : "5, 6, 7 zulhijah",
+                "2"  : "12, 13, 14 zulhijah",
+                "3" : "11, 12, 13 zulhijah",
+                "answer" : "11, 12, 13 zulhijah"
+            },
+            {
+                "questionId" : 12,
+                "title" : "Berniat melakukan ibadah haji dan ibadah umrah secara bersamaan merupakan pengertian dari…",
+                "0" : "Qiran",
+                "1" : "Ifrad",
+                "2"  : "Tamattu",
+                "3" : "Thawaf",
+                "answer" : "Qiran"
+            },
+            {
+                "questionId" : 13,
+                "title" : "Berikut ini tidak termasuk kepada syarat wajib haji adalah",
+                "0" : "Islam",
+                "1" : "Berakal",
+                "2"  : "Mampu",
+                "3" : "Hamba Sahaya",
+                "answer" : "Hamba Sahaya"
+            },
+            {
+                "questionId" : 14,
+                "title" : "Pengertian haji yaitu menyengaja untuk mengunjungi…",
+                "0" : "Masjidil Haram",
+                "1" : "Masjidil Aqsa",
+                "2"  : "Ka'bah",
+                "3" : "Gua Hira",
+                "answer" : "Ka'bah"
+            },
+            {
+                "questionId" : 15,
+                "title" : "Berikut ini yang tidak termasuk rukun umrah adalah",
+                "0" : "Wukuf",
+                "1" : "Sa'i",
+                "2"  : "Tertib",
+                "3" : "Tamattu",
+                "answer" : "Sa'i"
             }
         ],
         "tag" : "quiz",

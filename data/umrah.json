@@ -3,25 +3,58 @@
         "materiId" : 1,
         "title" : "Pengertian Umrah",
         "imageLink": "https://miro.medium.com/max/328/1*sJ7Q5asZhIChibR_hqUiow.png",
-        "videoLink": "https://www.youtube.com/watch?v=wyCtXuAk4fM&t=48s",
+        "videoLink": "https://www.youtube.com/watch?v=M973JcU2BUQ&t=20s",
         "description" : "menurut bahasa (etimologi) yaitu diambil dari kata “i’tamara” yang artinya berkunjung. Di dalam syariat, umrah artinya adalah berkunjung ke Baitullah (Masjidil Haram) dengan tujuan mendekatkan diri kepada Allah dengan memenuhi syarat tertentu yang waktunya tidak ditentukan seperti halnya haji.",
         "subMateri" : [],
         "tag" : "umrah"
     },
     {
-        "materiId" : 1,
+        "materiId" : 2,
         "title" : "Rukun Umrah",
         "imageLink": "https://miro.medium.com/max/328/1*J4z_Fg7bMOdvE84_y0yygg.png",
-        "videoLink": "https://www.youtube.com/watch?v=wyCtXuAk4fM&t=48s",
+        "videoLink": "https://www.youtube.com/watch?v=JwDKpQscPrY",
         "description" : "Berikut beberapa rukun dalam umroh :",
         "subMateri" : [
             {
                 "id" : 1,
-                "title" : "Niat",
-                "description" : "ajbjlabflak"
+                "title" : "Ihram disertai Niat.",
+                "description" : ""
+            },
+            {
+                "id": 2,
+                "title": "Tawaf(mengelilingi ka’bah).",
+                "description": ""
+            },
+            {
+                "id": 3,
+                "title": "sa’i, adalah lari-lari kecil atau jalan cepat antara Safa dan Marwa.",
+                "description": ""
+            },
+            {
+                "id": 4,
+                "title": "Bercukur atau memotong rambut minimal tiga helai.",
+                "description":""
             }
         ],
         "isHome" : true,
+        "tag" : "umrah"
+    },
+    {
+        "materiId" : 3,
+        "title" : "Hukum Umrah",
+        "imageLink": "https://miro.medium.com/max/328/1*sJ7Q5asZhIChibR_hqUiow.png",
+        "videoLink": "https://www.youtube.com/watch?v=ndmxR1muZuw",
+        "description" : "Tatawwu (Tatawwu maksudnya ialah tidak diwajibkan, tetapi baik dilakukan untuk mendekatkan diri kepada Allah dan melakukannya lebih utama daripada meninggalkannya karena tatawwu mempunyai ganjaran pahala).",
+        "subMateri" : [],
+        "tag" : "umrah"
+    },
+    {
+        "materiId" : 4,
+        "title" : "Wajib Umrah",
+        "imageLink": "https://miro.medium.com/max/328/1*sJ7Q5asZhIChibR_hqUiow.png",
+        "videoLink": "https://www.youtube.com/watch?v=JwDKpQscPrY",
+        "description" : "1.Ihram dari miqat yang terbagi menjadi dua macam yaitu sebagai berikut :\na.Miqat zamani (batas waktu) yakni dapat dilakukan sewaktu-waktu.\nb.Miqat makani (batas mulai ihram) seperti halnya haji.\n2.Menjaga diri dari larangan-larangan ihram yang jumlahnya sama dengan larangan haji.",
+        "subMateri" : [],
         "tag" : "umrah"
     }
 ]
