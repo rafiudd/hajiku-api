@@ -7,6 +7,7 @@ const schema = new Schema({
     imageLink : { type  : String },
     description : { type : String },
     isHome : { type : Boolean },
+    isQuiz : { type : Boolean },
     time : { type : Number},
     count : { type : Number },
     question : [
@@ -17,7 +18,8 @@ const schema = new Schema({
             1 : { type : String },
             2  : { type : String },
             3 : { type : String },
-            answer : { type : String }
+            answer : { type : String },
+            pembahasan: { type: String }
         }
     ]
 });
