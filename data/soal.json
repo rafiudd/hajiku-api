@@ -14,7 +14,8 @@
                 "1" : "Syarat Sah Haji",
                 "2"  : "Rukun Haji",
                 "3" : "Wajib haji",
-                "answer" : "Rukun Haji"
+                "answer" : "Rukun Haji",
+                "pembahasan": "Ini pembahasan ya oke sip mantap gan gas terus oke sip gasgas ntar diganti ama najib gan, yang panjang aja biar mantep okeokeokeokeokeokeoekoekeokeoke aowkaowkowa"
             },
             {
                 "questionId" : 2,
@@ -23,7 +24,8 @@
                 "1" : "Ihram",
                 "2"  : "Thawaf",
                 "3" : "Sa'i",
-                "answer" : "Tamattu'"
+                "answer" : "Tamattu'",
+                "pembahasan": "Ini pembahasan ya oke sip mantap gan gas terus oke sip gasgas ntar diganti ama najib gan, yang panjang aja biar mantep okeokeokeokeokeokeoekoekeokeoke aowkaowkowa"
             },
             {
                 "questionId" : 3,
@@ -32,7 +34,8 @@
                 "1" : "Thawaf",
                 "2"  : "Sa'i",
                 "3" : "Wukuf",
-                "answer" : "Wukuf"
+                "answer" : "Wukuf",
+                "pembahasan": "Ini pembahasan ya oke sip mantap gan gas terus oke sip gasgas ntar diganti ama najib gan, yang panjang aja biar mantep okeokeokeokeokeokeoekoekeokeoke aowkaowkowa"
             },
             {
                 "questionId" : 4,
@@ -41,7 +44,8 @@
                 "1" : "Madinah",
                 "2"  : "Mina",
                 "3" : "Mesir",
-                "answer" : "Muzdalifah"
+                "answer" : "Muzdalifah",
+                "pembahasan": "Ini pembahasan ya oke sip mantap gan gas terus oke sip gasgas ntar diganti ama najib gan, yang panjang aja biar mantep okeokeokeokeokeokeoekoekeokeoke aowkaowkowa"
             },
             {
                 "questionId" : 5,
@@ -50,7 +54,8 @@
                 "1" : "Ihram",
                 "2"  : "Thawaf",
                 "3" : "Sai",
-                "answer" : "Sa'i"
+                "answer" : "Sa'i",
+                "pembahasan": "Ini pembahasan ya oke sip mantap gan gas terus oke sip gasgas ntar diganti ama najib gan, yang panjang aja biar mantep okeokeokeokeokeokeoekoekeokeoke aowkaowkowa"
             },
             {
                 "questionId" : 6,
@@ -59,7 +64,8 @@
                 "1" : "Budak(Hamba sahaya)",
                 "2"  : "Baligh",
                 "3" : "Berakal",
-                "answer" : "Budak(Hamba sahaya)"
+                "answer" : "Budak(Hamba sahaya)",
+                "pembahasan": "Ini pembahasan ya oke sip mantap gan gas terus oke sip gasgas ntar diganti ama najib gan, yang panjang aja biar mantep okeokeokeokeokeokeoekoekeokeoke aowkaowkowa"
             },
             {
                 "questionId" : 7,
@@ -68,7 +74,8 @@
                 "1" : "Ka'bah",
                 "2"  : "Masjid Nabawi",
                 "3" : "Masjidil Aqsa",
-                "answer" : "Ka'bah"
+                "answer" : "Ka'bah",
+                "pembahasan": "Ini pembahasan ya oke sip mantap gan gas terus oke sip gasgas ntar diganti ama najib gan, yang panjang aja biar mantep okeokeokeokeokeokeoekoekeokeoke aowkaowkowa"
             },
             {
                 "questionId" : 8,
@@ -77,7 +84,8 @@
                 "1" : "tiga",
                 "2"  : "empat",
                 "3" : " lima",
-                "answer" : "lima"
+                "answer" : "lima",
+                "pembahasan": "Ini pembahasan ya oke sip mantap gan gas terus oke sip gasgas ntar diganti ama najib gan, yang panjang aja biar mantep okeokeokeokeokeokeoekoekeokeoke aowkaowkowa"
             },
             {
                 "questionId" : 9,
@@ -86,7 +94,8 @@
                 "1" : "Menjalin ukhuwah antara umat Islam dari berbagai penjuru dunia",
                 "2"  : "mendapat predikat “haji”",
                 "3" : "Mensyukuri atas segala nikmat yang diberikan oleh Allah swt. kepada kita semua",
-                "answer" : "mendapat predikat “haji”"
+                "answer" : "mendapat predikat “haji”",
+                "pembahasan": "Ini pembahasan ya oke sip mantap gan gas terus oke sip gasgas ntar diganti ama najib gan, yang panjang aja biar mantep okeokeokeokeokeokeoekoekeokeoke aowkaowkowa"
             },
             {
                 "questionId" : 10,
@@ -95,11 +104,12 @@
                 "1" : "Ihram",
                 "2"  : "Thawaf",
                 "3" : "Sa'i",
-                "answer" : "Thawaf"
+                "answer" : "Thawaf",
+                "pembahasan": "Ini pembahasan ya oke sip mantap gan gas terus oke sip gasgas ntar diganti ama najib gan, yang panjang aja biar mantep okeokeokeokeokeokeoekoekeokeoke aowkaowkowa"
             }
         ],
-        "tag" : "quiz",
-        "isHome" : true
+        "tag": "quiz",
+        "isHome": true
     },
     {
         "quizId" : 2,
@@ -246,6 +256,7 @@
             }
         ],
         "tag" : "quiz",
-        "isHome" : true
+        "isHome" : true,
+        "isQuiz": true
     }
 ]
