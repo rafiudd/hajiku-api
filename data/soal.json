@@ -5,7 +5,7 @@
         "imageLink": "https://miro.medium.com/max/328/1*sJ7Q5asZhIChibR_hqUiow.png",
         "description" : "Latihan soal untuk mengetahui seberapa mengerti kalian tentang materi yang telah kalian pelajari. Bentuk soal pilihan ganda, jawab dengan tepat ya ^_^",
         "time" : 30,
-        "count" : 5,
+        "count" : 10,
         "question" : [
             {   
                 "questionId" : 1,
@@ -109,7 +109,8 @@
             }
         ],
         "tag": "quiz",
-        "isHome": true
+        "isHome": true,
+        "isQuiz": false
     },
     {
         "quizId" : 2,
