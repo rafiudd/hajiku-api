@@ -13,29 +13,8 @@
         "title" : "Rukun Umrah",
         "imageLink": "https://cdn-images-1.medium.com/max/400/1*Z2cpZuoMUaqwi9E_SDJxMg.jpeg",
         "videoLink": "https://www.youtube.com/watch?v=JwDKpQscPrY",
-        "description" : "Berikut beberapa rukun dalam umroh :",
-        "subMateri" : [
-            {
-                "id" : 1,
-                "title" : "Ihram disertai Niat.",
-                "description" : ""
-            },
-            {
-                "id": 2,
-                "title": "Tawaf(mengelilingi ka’bah).",
-                "description": ""
-            },
-            {
-                "id": 3,
-                "title": "sa’i, adalah lari-lari kecil atau jalan cepat antara Safa dan Marwa.",
-                "description": ""
-            },
-            {
-                "id": 4,
-                "title": "Bercukur atau memotong rambut minimal tiga helai.",
-                "description":""
-            }
-        ],
+        "description" : "Berikut beberapa rukun dalam umroh : \n1.Ihram disertai Niat. \n2.Tawaf(mengelilingi ka’bah). \n3.sa’i, adalah lari-lari kecil atau jalan cepat antara Safa dan Marwa. \n4.Bercukur atau memotong rambut minimal tiga helai.",
+        "subMateri" : [],
         "isHome" : true,
         "tag" : "umrah"
     },

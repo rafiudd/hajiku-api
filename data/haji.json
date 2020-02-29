@@ -63,34 +63,8 @@
         "title": "Syarat Haji",
         "imageLink": "https://miro.medium.com/max/328/1*iTRZ5q5gvXhac_7bqyBQGQ.png",
         "videoLink": "https://www.youtube.com/watch?v=i4WASwBdHOI",
-        "description": "Syarat adalah tuntutan atau permintaan yang harus dipenuhi. Syarat haji sebagai berikut :",
-        "subMateri": [
-            {
-                "id": 1,
-                "title": "Mampu",
-                "description": ""
-            },
-            {
-                "id": 2,
-                "title": "Islam",
-                "description": ""
-            },
-            {
-                "id": 3,
-                "title": "Berakal",
-                "description": ""
-            },
-            {
-                "id": 4,
-                "title": "Baligh",
-                "description": ""
-            },
-            {
-                "id": 5,
-                "title": "Merdeka",
-                "description": ""
-            }
-        ],
+        "description": "Syarat adalah tuntutan atau permintaan yang harus dipenuhi. Syarat haji sebagai berikut : \n1.Mampu \n2.Islam \n3.Berakal \n4.Baligh \n5.Merdeka",
+        "subMateri": [],
         "isHome" : true,
         "tag" : "haji"
     },
@@ -99,43 +73,8 @@
         "title": "Wajib Haji",
         "imageLink": "https://cdn-images-1.medium.com/max/600/1*Ipmg8bQMxFhRzDvwh0dcZg.jpeg",
         "videoLink": "https://www.youtube.com/watch?v=aD8rLzkuGb4",
-        "description": "Wajib haji ini adalah segala kewajiban yang perlu dikerjakan supaya ibadah haji seseorang menjadi sah. Ketika seseorang meninggalkannya,  maka orang tersebut hanya dikenai hukuman membayar dam. Wajib haji ada tujuh macam, yakni sebagai berikut.",
-        "subMateri": [
-            {
-                "id": 1,
-                "title": "Ihram mulai dari miqat.",
-                "description": ""
-            },
-            {
-                "id": 2,
-                "title": "Bermalam (mabit) di Muzdalifah pada malam hari raya haji.",
-                "description": ""
-            },
-            {
-                "id": 3,
-                "title": "BerakalMelempar Jumratul Aqabah.",
-                "description": ""
-            },
-            {
-                "id": 4,
-                "title": "Melempar tiga jumrah yakni 1.Jumrah ula, 2.Jumrah wusta, dan 3.Jumrah aqabah. \nMelempar jumrah ini dilakukan setiap hari pada tanggal 11, 12, dan 13 bulan Zulhijah dan waktunya setelah tergelincir matahari. Masing-masing jumrah dilempar sebanyak 7 (tujuh) kali dengan batu kecil.",
-                "description": ""
-            },
-            {
-                "id": 5,
-                "title": "Bermalam (mabit) di Mina.",
-                "description": ""
-            },
-            {
-                "id": 6,
-                "title": "Tawaf wada (thawaf perpisahan) sebelum meninggalkan kota Makkah.",
-                "description": ""
-            },
-            {
-                "id": 7,
-                "title": "Menjauhkan diri dari larangan atau perbuatan yang diharamkan dalam ihram dan umrah yaitu sebagai berikut: \n1.Bagi pria dilarang memakai pakaian berjahit.\n2.Menutup kepala bagi pria dan menutup muka bagi wanita.\n3.Memotong kuku.\n4.Membunuh hewan buruan. \n5.Memakai wangi-wangian.\n6.Hubungan suami isteri (bersetubuh).\n7.Mengadakan aqad nikah (kawin atau mengawinkan).\n8.Memotong rambut atau bulu badan yang lain."
-            }
-        ],
+        "description": "Wajib haji ini adalah segala kewajiban yang perlu dikerjakan supaya ibadah haji seseorang menjadi sah. Ketika seseorang meninggalkannya,  maka orang tersebut hanya dikenai hukuman membayar dam. Wajib haji ada tujuh macam, yakni sebagai berikut. \n1.Ihram mulai dari miqat. \n2.Bermalam (mabit) di Muzdalifah pada malam hari raya haji. \n3.Melempar Jumratul Aqabah. \n4.Melempar tiga jumrah yakni, jumrah ula, jumrah wusta, dan jumrah aqabah. Melempar jumrah ini dilakukan setiap hari pada tanggal 11, 12, dan 13 bulan Zulhijah dan waktunya setelah tergelincir matahari. Masing-masing jumrah dilempar sebanyak 7 (tujuh) kali dengan batu kecil. \n5.Bermalam (mabit) di Mina. \n6.Tawaf wada (thawaf perpisahan) sebelum meninggalkan kota Makkah. \n \nMenjauhkan diri dari larangan atau perbuatan yang diharamkan dalam ihram dan umrah yaitu sebagai berikut: \na.Bagi pria dilarang memakai pakaian berjahit.\nb.Menutup kepala bagi pria dan menutup muka bagi wanita.\nc.Memotong kuku.\nd.Membunuh hewan buruan. \ne.Memakai wangi-wangian.\nf.Hubungan suami isteri (bersetubuh).\ng.Mengadakan aqad nikah (kawin atau mengawinkan).\nh.Memotong rambut atau bulu badan yang lain.",
+        "subMateri": [],
         "isHome" : true,
         "tag" : "haji"
     },
