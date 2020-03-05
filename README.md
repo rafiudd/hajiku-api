@@ -1,5 +1,5 @@
-# Quizquh Api
-Quizquh is e-book apps and quiz about haji and umrah
+# Hajiku Api
+Hajiku is e-book apps and quiz about haji and umrah
 
 ### How to install
 
