@@ -20,6 +20,3 @@ nodemon or node index.js
 ### Postman Collection
 
 https://www.getpostman.com/collections/eeed99848fc6ed74c189
-
-### Live Server
-http://34.238.41.114:8080/
