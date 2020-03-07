@@ -53,7 +53,7 @@
                 "0" : "Wukuf",
                 "1" : "Ihram",
                 "2"  : "Thawaf",
-                "3" : "Sai",
+                "3" : "Sa'i",
                 "answer" : "Sa'i",
                 "pembahasan": "Sa'i adalah berlari-lari kecil bolak-balik 7 kali dari Bukit Shafa ke Bukit Marwah dan sebaliknya. Para jama'ah pria disunahkan untuk berlari-lari kecil sedangkan untuk jama'ah wanita berjalan cepat"
             },
@@ -80,11 +80,11 @@
             {
                 "questionId" : 8,
                 "title" : "Melaksanakaan ibadah haji merupakan rukun Islam yang ke….",
-                "0" : "dua",
-                "1" : "tiga",
-                "2"  : "empat",
-                "3" : " lima",
-                "answer" : "lima",
+                "0" : "Dua",
+                "1" : "Tiga",
+                "2"  : "Empat",
+                "3" : "Lima",
+                "answer" : "Lima",
                 "pembahasan": "Rukun Islam ada 5, yaitu 1.Syahadat, 2.Sholat, 3.Puasa, 4.Zakat, 5.Haji(Bagi yang mampu)."
             },
             {
@@ -92,9 +92,9 @@
                 "title" : "Berikut ini merupakan manfaat haji, kecuali",
                 "0" : "Semakin mendekatkan diri kepada Allah swt.",
                 "1" : "Menjalin ukhuwah antara umat Islam dari berbagai penjuru dunia",
-                "2"  : "mendapat predikat “haji”",
+                "2"  : "Mendapat predikat “haji”",
                 "3" : "Mensyukuri atas segala nikmat yang diberikan oleh Allah swt. kepada kita semua",
-                "answer" : "mendapat predikat “haji”",
+                "answer" : "Mendapat predikat “haji”",
                 "pembahasan": "Manfaat Haji 1.Semakin mendekatkan diri kepada Allah swt, 2.Menjalin ukhuwah antara umat Islam dari berbagai penjuru dunia, 3.Beribadah sambil belajar sejarah nabi-nabi yang tercatat dalam al-Qur’an, 4.Mensyukuri atas segala nikmat yang diberikan oleh Allah SWT kepada kita semua, 5.Menumbuhkan semangat muslim yang lain untuk berusaha semaksimal mungkin guna melaksanakan ibadah haji, dan masih banyak lainnya. Dan yang bukan termasuk manfaat haji adalah diantaranya menjadikan sombong, mendapat predikat haji, ingin dipandang orang kaya, dll."
             },
             {
@@ -115,19 +115,19 @@
     {
         "quizId" : 2,
         "title" : "Quiz Haji dan Umrah ",
-        "imageLink": "https://miro.medium.com/max/328/1*sJ7Q5asZhIChibR_hqUiow.png",
+        "imageLink": "https://www.jakpost.travel/wimages/large/39-396962_madina-munawara-roza-e-rasool-masjid-nabawi-wallpapers.jpg",
         "description" : "Soal-soal untuk mendapatkan nilai dan kepahaman kalian tentang materi yg telah kalian baca. Bentuk soal pilihan ganda, jawab dengan tepat ya ^_^",
         "time" : 30,
-        "count" : 5,
+        "count" : 15,
         "question" : [
             {   
                 "questionId" : 1,
                 "title" : "Berikut yang tidak termasuk dalam macam macam jumrah ketika melaksanakan haji yaitu...",
-                "0" : "ula",
-                "1" : "wa'da",
-                "2"  : "aqobah",
-                "3" : "wusta",
-                "answer" : "wada"
+                "0" : "Ula",
+                "1" : "Wa'da",
+                "2"  : "Aqobah",
+                "3" : "Wusta",
+                "answer" : "Wa'da"
             },
             {
                 "questionId" : 2,
@@ -141,20 +141,20 @@
             {
                 "questionId" : 3,
                 "title" : "Larangan pada saat melaksanakan haji yaitu",
-                "0" : "menggunakan pakaian berjahit pada pria",
-                "1" : "banyak bersholawat",
-                "2"  : "tidak menggunakan wewangian",
-                "3" : "tidak memotong kuku",
-                "answer" : "menggunakan pakaian berjahit pada pria"
+                "0" : "Menggunakan pakaian berjahit pada pria",
+                "1" : "Banyak bersholawat",
+                "2"  : "Tidak menggunakan wewangian",
+                "3" : "Tidak memotong kuku",
+                "answer" : "Menggunakan pakaian berjahit pada pria"
             },
             {
                 "questionId" : 4,
                 "title" : "Menjalankan rukun haji secara urut disebut dengan…",
-                "0" : "sa'i",
-                "1" : "thawaf",
-                "2"  : "tahallul",
-                "3" : "tertib",
-                "answer" : "tertib"
+                "0" : "Sa'i",
+                "1" : "Thawaf",
+                "2"  : "Tahallul",
+                "3" : "Tertib",
+                "answer" : "Tertib"
             },
             {
                 "questionId" : 5,
@@ -171,13 +171,13 @@
                 "0" : "Tamattu",
                 "1" : "Kiran",
                 "2"  : "Ifrad",
-                "3" : "tahallul",
+                "3" : "Tahallul",
                 "answer" : "Ifrad"
             },
             {
                 "questionId" : 7,
                 "title" : "hukum melaksanakan haji yaitu … untuk orang yang mampu",
-                "0" : "wajib",
+                "0" : "Wajib",
                 "1" : "Sunnah",
                 "2"  : "Haram",
                 "3" : "Makruh",
